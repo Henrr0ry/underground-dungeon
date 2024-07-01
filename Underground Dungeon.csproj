@@ -1,0 +1,598 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{31C9FFFA-EBB3-4313-9B18-F34B81B06F8F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Underground_Dungeon</RootNamespace>
+    <AssemblyName>Underground Dungeon</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>false</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CodeLine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CodeLine.Designer.cs">
+      <DependentUpon>CodeLine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controls.Designer.cs">
+      <DependentUpon>Controls.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Credits.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Credits.Designer.cs">
+      <DependentUpon>Credits.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeadMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeadMenu.Designer.cs">
+      <DependentUpon>DeadMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GameExit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GameExit.Designer.cs">
+      <DependentUpon>GameExit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GameSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GameSetting.Designer.cs">
+      <DependentUpon>GameSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Level0.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Level0.Designer.cs">
+      <DependentUpon>Level0.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Level12.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Level12.Designer.cs">
+      <DependentUpon>Level12.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Level11.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Level11.Designer.cs">
+      <DependentUpon>Level11.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Level10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Level10.Designer.cs">
+      <DependentUpon>Level10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Level13.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Level13.Designer.cs">
+      <DependentUpon>Level13.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Level14.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Level14.Designer.cs">
+      <DependentUpon>Level14.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Level17.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Level17.Designer.cs">
+      <DependentUpon>Level17.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Level15.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Level15.Designer.cs">
+      <DependentUpon>Level15.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Level4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Level4.Designer.cs">
+      <DependentUpon>Level4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Level16.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Level16.Designer.cs">
+      <DependentUpon>Level16.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Level18.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Level18.Designer.cs">
+      <DependentUpon>Level18.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Level9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Level9.Designer.cs">
+      <DependentUpon>Level9.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Level8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Level8.Designer.cs">
+      <DependentUpon>Level8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Level7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Level7.Designer.cs">
+      <DependentUpon>Level7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Level6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Level6.Designer.cs">
+      <DependentUpon>Level6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Level5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Level5.Designer.cs">
+      <DependentUpon>Level5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Level3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Level3.Designer.cs">
+      <DependentUpon>Level3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Level2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Level2.Designer.cs">
+      <DependentUpon>Level2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Level1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Level1.Designer.cs">
+      <DependentUpon>Level1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LevelMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LevelMenu.Designer.cs">
+      <DependentUpon>LevelMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainSetting.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>MainSetting.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Settings1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings1.settings</DependentUpon>
+    </Compile>
+    <Compile Include="SettingsCodeLine.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>SettingsCodeLine.settings</DependentUpon>
+    </Compile>
+    <Compile Include="StartMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StartMenu.Designer.cs">
+      <DependentUpon>StartMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StopMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StopMenu.Designer.cs">
+      <DependentUpon>StopMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Trade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Trade.Designer.cs">
+      <DependentUpon>Trade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserSaveSlot.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>UserSaveSlot.settings</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="CodeLine.resx">
+      <DependentUpon>CodeLine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls.resx">
+      <DependentUpon>Controls.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Credits.resx">
+      <DependentUpon>Credits.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeadMenu.resx">
+      <DependentUpon>DeadMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GameExit.resx">
+      <DependentUpon>GameExit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GameSetting.resx">
+      <DependentUpon>GameSetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Level0.resx">
+      <DependentUpon>Level0.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Level12.resx">
+      <DependentUpon>Level12.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Level11.resx">
+      <DependentUpon>Level11.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Level10.resx">
+      <DependentUpon>Level10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Level13.resx">
+      <DependentUpon>Level13.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Level14.resx">
+      <DependentUpon>Level14.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Level17.resx">
+      <DependentUpon>Level17.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Level15.resx">
+      <DependentUpon>Level15.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Level4.resx">
+      <DependentUpon>Level4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Level16.resx">
+      <DependentUpon>Level16.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Level18.resx">
+      <DependentUpon>Level18.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Level9.resx">
+      <DependentUpon>Level9.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Level8.resx">
+      <DependentUpon>Level8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Level7.resx">
+      <DependentUpon>Level7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Level6.resx">
+      <DependentUpon>Level6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Level5.resx">
+      <DependentUpon>Level5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Level3.resx">
+      <DependentUpon>Level3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Level2.resx">
+      <DependentUpon>Level2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Level1.resx">
+      <DependentUpon>Level1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LevelMenu.resx">
+      <DependentUpon>LevelMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StartMenu.resx">
+      <DependentUpon>StartMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StopMenu.resx">
+      <DependentUpon>StopMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Trade.resx">
+      <DependentUpon>Trade.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="MainSetting.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>MainSetting.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Settings1.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="SettingsCodeLine.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>SettingsCodeLine.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="UserSaveSlot.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>UserSaveSlot.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\panáček.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\player4.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\potionheal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\protection.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\live.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\knife.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Debug\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Logo.ico" />
+    <None Include="Resources\List7.png" />
+    <None Include="Resources\List6.png" />
+    <None Include="Resources\List5.png" />
+    <None Include="Resources\Console.png" />
+    <None Include="Resources\boss.png" />
+    <None Include="Resources\Dragon3.png" />
+    <None Include="Resources\tráva.png" />
+    <None Include="Resources\Enemy1.png" />
+    <None Include="Resources\armor4.png" />
+    <None Include="Resources\armor3.png" />
+    <None Include="Resources\armor2.png" />
+    <None Include="Resources\armor.png" />
+    <None Include="Resources\Dragon2.png" />
+    <None Include="Resources\Dragon.png" />
+    <None Include="Resources\background.png" />
+    <None Include="Resources\Skeleton.png" />
+    <None Include="Resources\Barrel.png" />
+    <None Include="Resources\Rune3.png" />
+    <None Include="Resources\Rune2.png" />
+    <None Include="Resources\Rune1.png" />
+    <None Include="Resources\Rune0.png" />
+    <None Include="Resources\doorOpen.png" />
+    <None Include="Resources\DownStairs.png" />
+    <None Include="Resources\Magma.gif" />
+    <None Include="Resources\BuyTrade.wav" />
+    <None Include="Resources\DamageRat.wav" />
+    <None Include="Resources\DamageKing.wav" />
+    <None Include="Resources\Hit2.wav" />
+    <None Include="Resources\DamageWither.wav" />
+    <None Include="Resources\DamageWarrior.wav" />
+    <None Include="Resources\Attack.wav" />
+    <None Include="Resources\Soundtrack2.wav" />
+    <None Include="Resources\Soundtrack1.wav" />
+    <None Include="Resources\MenuSoundtrack.wav" />
+    <None Include="Resources\List4.png" />
+    <None Include="Resources\List3.png" />
+    <None Include="Resources\fireball3.png" />
+    <None Include="Resources\energyElipse1Slot.png" />
+    <None Include="Resources\enemyWither2.png" />
+    <None Include="Resources\enemyWither.png" />
+    <None Include="Resources\lootedChestGold.png" />
+    <None Include="Resources\chestGold.png" />
+    <None Include="Resources\sword3Slot.png" />
+    <None Include="Resources\Chestplate3slot.png" />
+    <None Include="Resources\buttonDeny.png" />
+    <None Include="Resources\buttonAccept.png" />
+    <None Include="Resources\potionBoost1Slot.png" />
+    <None Include="Resources\potionboost.png" />
+    <None Include="Resources\enemyKing2.png" />
+    <None Include="Resources\enemyKing.png" />
+    <None Include="Resources\Chestplate2slot.png" />
+    <None Include="Resources\MagicShootSlot.png" />
+    <None Include="Resources\fireball2.png" />
+    <None Include="Resources\playerWomen4.png" />
+    <None Include="Resources\playerWomen3.png" />
+    <None Include="Resources\sword2Slot.png" />
+    <None Include="Resources\Sign.png" />
+    <None Include="Resources\button6.png" />
+    <None Include="Resources\button5.png" />
+    <None Include="Resources\Blood.png" />
+    <None Include="Resources\inventoryDead.png" />
+    <None Include="Resources\playerWomen2.png" />
+    <None Include="Resources\playerWomen.png" />
+    <None Include="Resources\OakTree.png" />
+    <None Include="Resources\OakBush.png" />
+    <None Include="Resources\GrassGround.png" />
+    <None Include="Resources\inventorySettingeMenu.png" />
+    <None Include="Resources\CursorArrow1.0.ico" />
+    <None Include="Resources\ByHenry005czLogo.png" />
+    <None Include="Resources\inventoryGameMenu.png" />
+    <None Include="Resources\SaveIcon0.gif" />
+    <None Include="Resources\MainMap.png" />
+    <None Include="Resources\button4.png" />
+    <None Include="Resources\button3.png" />
+    <None Include="Resources\slotSecret.png" />
+    <None Include="Resources\inventoryExit.png" />
+    <None Include="Resources\button2.png" />
+    <None Include="Resources\inventoryTrade.png" />
+    <None Include="Resources\List2.png" />
+    <None Include="Resources\List1.png" />
+    <None Include="Resources\List0.png" />
+    <None Include="Resources\potionXP.png" />
+    <None Include="Resources\Logo2.png" />
+    <None Include="Resources\Logo2.0.png" />
+    <None Include="Resources\wall4.0.png" />
+    <None Include="Resources\wall3.0.png" />
+    <None Include="Resources\wall2.0.png" />
+    <None Include="Resources\wall1.0.png" />
+    <None Include="Resources\potionXPslot.png" />
+    <None Include="Resources\torch0.gif" />
+    <None Include="Resources\enemyRat2.png" />
+    <None Include="Resources\enemyRat.png" />
+    <None Include="Resources\slotEmpty.png" />
+    <None Include="Resources\slotPotion.png" />
+    <None Include="Resources\slotMagic.png" />
+    <None Include="Resources\OvladaniButton.png" />
+    <None Include="Resources\fireball1.png" />
+    <None Include="Resources\slotArmor.png" />
+    <None Include="Resources\Chestplate1slot.png" />
+    <None Include="Resources\fireball1Slot.png" />
+    <None Include="Resources\knockback.png" />
+    <None Include="Resources\potionHeal1Slot.png" />
+    <None Include="Resources\enemyWarrior2.png" />
+    <None Include="Resources\enemyWarrior.png" />
+    <None Include="Resources\chestplate4.png" />
+    <None Include="Resources\chestplate3.png" />
+    <None Include="Resources\chestplate2.png" />
+    <None Include="Resources\chesplate1.png" />
+    <None Include="Resources\sword.png" />
+    <None Include="Resources\sword1Slot.png" />
+    <None Include="Resources\slotWeapond.png" />
+    <None Include="Resources\swordSlot.png" />
+    <None Include="Resources\trader.png" />
+    <None Include="Resources\inventory2.png" />
+    <None Include="Resources\inventory1.png" />
+    <None Include="Resources\button1.png" />
+    <None Include="Resources\lootedChest.png" />
+    <None Include="Resources\chest.png" />
+    <None Include="Resources\player.png" />
+    <None Include="Resources\player4.png" />
+    <None Include="Resources\player3.png" />
+    <None Include="Resources\player2.png" />
+    <None Include="Resources\enemy.png" />
+    <None Include="Resources\wall4.png" />
+    <None Include="Resources\wall3.png" />
+    <None Include="Resources\wall2.png" />
+    <None Include="Resources\wall1.png" />
+    <None Include="Resources\door.png" />
+    <None Include="Resources\ground.png" />
+    <None Include="Resources\expirience.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 a x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

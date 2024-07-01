@@ -1,0 +1,10 @@
+C:\Users\redca\source\repos\Chodici panaček\bin\Debug\Chodici panaček.exe.config
+C:\Users\redca\source\repos\Chodici panaček\bin\Debug\Chodici panaček.exe
+C:\Users\redca\source\repos\Chodici panaček\bin\Debug\Chodici panaček.pdb
+C:\Users\redca\source\repos\Chodici panaček\obj\Debug\Chodici panaček.csprojAssemblyReference.cache
+C:\Users\redca\source\repos\Chodici panaček\obj\Debug\Chodici_panaček.Properties.Resources.resources
+C:\Users\redca\source\repos\Chodici panaček\obj\Debug\Chodici panaček.csproj.GenerateResource.cache
+C:\Users\redca\source\repos\Chodici panaček\obj\Debug\Chodici panaček.csproj.CoreCompileInputs.cache
+C:\Users\redca\source\repos\Chodici panaček\obj\Debug\Chodici panaček.exe
+C:\Users\redca\source\repos\Chodici panaček\obj\Debug\Chodici panaček.pdb
+C:\Users\redca\source\repos\Chodici panaček\obj\Debug\Chodici_panaček.Pozadi.resources

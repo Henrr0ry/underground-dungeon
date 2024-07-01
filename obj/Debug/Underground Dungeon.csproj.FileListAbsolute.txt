@@ -1,0 +1,272 @@
+C:\Users\redca\source\repos\Chodici panaček\obj\Debug\Underground Dungeon.csprojAssemblyReference.cache
+C:\Users\redca\source\repos\Chodici panaček\obj\Debug\Underground_Dungeon.Pozadi.resources
+C:\Users\redca\source\repos\Chodici panaček\obj\Debug\Underground_Dungeon.Properties.Resources.resources
+C:\Users\redca\source\repos\Chodici panaček\obj\Debug\Underground Dungeon.csproj.GenerateResource.cache
+C:\Users\redca\source\repos\Chodici panaček\obj\Debug\Underground Dungeon.csproj.CoreCompileInputs.cache
+C:\Users\redca\source\repos\Chodici panaček\bin\Debug\Underground Dungeon.exe.config
+C:\Users\redca\source\repos\Chodici panaček\bin\Debug\Underground Dungeon.exe
+C:\Users\redca\source\repos\Chodici panaček\bin\Debug\Underground Dungeon.pdb
+C:\Users\redca\source\repos\Chodici panaček\obj\Debug\Underground Dungeon.exe
+C:\Users\redca\source\repos\Chodici panaček\obj\Debug\Underground Dungeon.pdb
+C:\Users\redca\source\repos\Underground Dungeon\bin\Debug\Underground Dungeon.exe.config
+C:\Users\redca\source\repos\Underground Dungeon\bin\Debug\Underground Dungeon.exe
+C:\Users\redca\source\repos\Underground Dungeon\bin\Debug\Underground Dungeon.pdb
+C:\Users\redca\source\repos\Underground Dungeon\obj\Debug\Underground Dungeon.csprojAssemblyReference.cache
+C:\Users\redca\source\repos\Underground Dungeon\obj\Debug\Underground_Dungeon.Pozadi.resources
+C:\Users\redca\source\repos\Underground Dungeon\obj\Debug\Underground_Dungeon.Properties.Resources.resources
+C:\Users\redca\source\repos\Underground Dungeon\obj\Debug\Underground Dungeon.csproj.GenerateResource.cache
+C:\Users\redca\source\repos\Underground Dungeon\obj\Debug\Underground Dungeon.csproj.CoreCompileInputs.cache
+C:\Users\redca\source\repos\Underground Dungeon\obj\Debug\Underground Dungeon.exe
+C:\Users\redca\source\repos\Underground Dungeon\obj\Debug\Underground Dungeon.pdb
+C:\Users\redca\source\repos\Underground Dungeon-v1.1\bin\Debug\Underground Dungeon.exe.config
+C:\Users\redca\source\repos\Underground Dungeon-v1.1\bin\Debug\Underground Dungeon.exe
+C:\Users\redca\source\repos\Underground Dungeon-v1.1\bin\Debug\Underground Dungeon.pdb
+C:\Users\redca\source\repos\Underground Dungeon-v1.1\obj\Debug\Underground Dungeon.csprojAssemblyReference.cache
+C:\Users\redca\source\repos\Underground Dungeon-v1.1\obj\Debug\Underground_Dungeon.Pozadi.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.1\obj\Debug\Underground_Dungeon.Properties.Resources.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.1\obj\Debug\Underground Dungeon.csproj.GenerateResource.cache
+C:\Users\redca\source\repos\Underground Dungeon-v1.1\obj\Debug\Underground Dungeon.csproj.CoreCompileInputs.cache
+C:\Users\redca\source\repos\Underground Dungeon-v1.1\obj\Debug\Underground Dungeon.exe
+C:\Users\redca\source\repos\Underground Dungeon-v1.1\obj\Debug\Underground Dungeon.pdb
+C:\Users\redca\source\repos\Underground Dungeon-v1.4\bin\Debug\Underground Dungeon.exe.config
+C:\Users\redca\source\repos\Underground Dungeon-v1.4\bin\Debug\Underground Dungeon.exe
+C:\Users\redca\source\repos\Underground Dungeon-v1.4\bin\Debug\Underground Dungeon.pdb
+C:\Users\redca\source\repos\Underground Dungeon-v1.4\obj\Debug\Underground Dungeon.csprojAssemblyReference.cache
+C:\Users\redca\source\repos\Underground Dungeon-v1.4\obj\Debug\Underground_Dungeon.Pozadi.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4\obj\Debug\Underground_Dungeon.Properties.Resources.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4\obj\Debug\Underground Dungeon.csproj.GenerateResource.cache
+C:\Users\redca\source\repos\Underground Dungeon-v1.4\obj\Debug\Underground Dungeon.csproj.CoreCompileInputs.cache
+C:\Users\redca\source\repos\Underground Dungeon-v1.4\obj\Debug\Underground Dungeon.exe
+C:\Users\redca\source\repos\Underground Dungeon-v1.4\obj\Debug\Underground Dungeon.pdb
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.2\bin\Debug\Underground Dungeon.exe.config
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.2\bin\Debug\Underground Dungeon.exe
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.2\bin\Debug\Underground Dungeon.pdb
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.2\obj\Debug\Underground Dungeon.csprojAssemblyReference.cache
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.2\obj\Debug\Underground_Dungeon.Properties.Resources.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.2\obj\Debug\Underground Dungeon.csproj.GenerateResource.cache
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.2\obj\Debug\Underground Dungeon.csproj.CoreCompileInputs.cache
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.2\obj\Debug\Underground Dungeon.exe
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.2\obj\Debug\Underground Dungeon.pdb
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.2\obj\Debug\Underground_Dungeon.StartMenu.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.2\obj\Debug\Underground_Dungeon.Level1.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.3\bin\Debug\Underground Dungeon.exe.config
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.3\bin\Debug\Underground Dungeon.exe
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.3\bin\Debug\Underground Dungeon.pdb
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.3\obj\Debug\Underground Dungeon.csprojAssemblyReference.cache
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.3\obj\Debug\Underground_Dungeon.Level1.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.3\obj\Debug\Underground_Dungeon.Properties.Resources.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.3\obj\Debug\Underground_Dungeon.StartMenu.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.3\obj\Debug\Underground Dungeon.csproj.GenerateResource.cache
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.3\obj\Debug\Underground Dungeon.csproj.CoreCompileInputs.cache
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.3\obj\Debug\Underground Dungeon.exe
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.3\obj\Debug\Underground Dungeon.pdb
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.3\obj\Debug\Underground_Dungeon.Trade.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.5\bin\Debug\Underground Dungeon.exe.config
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.5\bin\Debug\Underground Dungeon.exe
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.5\bin\Debug\Underground Dungeon.pdb
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.5\obj\Debug\Underground Dungeon.csprojAssemblyReference.cache
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.5\obj\Debug\Underground_Dungeon.Level1.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.5\obj\Debug\Underground_Dungeon.Properties.Resources.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.5\obj\Debug\Underground_Dungeon.StartMenu.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.5\obj\Debug\Underground_Dungeon.Trade.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.5\obj\Debug\Underground Dungeon.csproj.GenerateResource.cache
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.5\obj\Debug\Underground Dungeon.csproj.CoreCompileInputs.cache
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.5\obj\Debug\Underground Dungeon.exe
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.5\obj\Debug\Underground Dungeon.pdb
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.5\obj\Debug\Underground_Dungeon.GameExit.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.5\obj\Debug\Underground_Dungeon.LevelMenu.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.5\obj\Debug\Underground_Dungeon.Controls.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.6\bin\Debug\Underground Dungeon.exe.config
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.6\bin\Debug\Underground Dungeon.exe
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.6\bin\Debug\Underground Dungeon.pdb
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.6\obj\Debug\Underground Dungeon.csprojAssemblyReference.cache
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.6\obj\Debug\Underground_Dungeon.Controls.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.6\obj\Debug\Underground_Dungeon.GameExit.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.6\obj\Debug\Underground_Dungeon.Level1.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.6\obj\Debug\Underground_Dungeon.LevelMenu.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.6\obj\Debug\Underground_Dungeon.Properties.Resources.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.6\obj\Debug\Underground_Dungeon.StartMenu.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.6\obj\Debug\Underground_Dungeon.Trade.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.6\obj\Debug\Underground Dungeon.csproj.GenerateResource.cache
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.6\obj\Debug\Underground Dungeon.csproj.CoreCompileInputs.cache
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.6\obj\Debug\Underground Dungeon.exe
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.6\obj\Debug\Underground Dungeon.pdb
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.6\obj\Debug\Underground_Dungeon.CodeLine.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.7\bin\Debug\Underground Dungeon.exe.config
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.7\bin\Debug\Underground Dungeon.exe
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.7\bin\Debug\Underground Dungeon.pdb
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.7\obj\Debug\Underground Dungeon.csprojAssemblyReference.cache
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.7\obj\Debug\Underground_Dungeon.CodeLine.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.7\obj\Debug\Underground_Dungeon.Controls.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.7\obj\Debug\Underground_Dungeon.GameExit.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.7\obj\Debug\Underground_Dungeon.Level1.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.7\obj\Debug\Underground_Dungeon.LevelMenu.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.7\obj\Debug\Underground_Dungeon.Properties.Resources.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.7\obj\Debug\Underground_Dungeon.StartMenu.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.7\obj\Debug\Underground_Dungeon.Trade.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.7\obj\Debug\Underground Dungeon.csproj.GenerateResource.cache
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.7\obj\Debug\Underground Dungeon.csproj.CoreCompileInputs.cache
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.7\obj\Debug\Underground Dungeon.exe
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.7\obj\Debug\Underground Dungeon.pdb
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.7\obj\Debug\Underground_Dungeon.StopMenu.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.8\bin\Debug\Underground Dungeon.exe.config
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.8\bin\Debug\Underground Dungeon.exe
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.8\bin\Debug\Underground Dungeon.pdb
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.8\obj\Debug\Underground_Dungeon.CodeLine.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.8\obj\Debug\Underground_Dungeon.Controls.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.8\obj\Debug\Underground_Dungeon.GameExit.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.8\obj\Debug\Underground_Dungeon.Level1.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.8\obj\Debug\Underground_Dungeon.LevelMenu.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.8\obj\Debug\Underground_Dungeon.Properties.Resources.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.8\obj\Debug\Underground_Dungeon.StartMenu.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.8\obj\Debug\Underground_Dungeon.StopMenu.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.8\obj\Debug\Underground_Dungeon.Trade.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.8\obj\Debug\Underground Dungeon.csproj.GenerateResource.cache
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.8\obj\Debug\Underground Dungeon.csproj.CoreCompileInputs.cache
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.8\obj\Debug\Underground Dungeon.exe
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.8\obj\Debug\Underground Dungeon.pdb
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.8\obj\Debug\Underground Dungeon.csproj.AssemblyReference.cache
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.8\obj\Debug\Underground_Dungeon.Level2.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.8\obj\Debug\Underground_Dungeon.GameSetting.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.8\obj\Debug\Underground_Dungeon.DeadMenu.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.8\obj\Debug\Underground_Dungeon.Credits.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.9\bin\Debug\Underground Dungeon.exe.config
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.9\bin\Debug\Underground Dungeon.exe
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.9\bin\Debug\Underground Dungeon.pdb
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.9\obj\Debug\Underground Dungeon.csproj.AssemblyReference.cache
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.9\obj\Debug\Underground_Dungeon.CodeLine.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.9\obj\Debug\Underground_Dungeon.Controls.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.9\obj\Debug\Underground_Dungeon.Credits.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.9\obj\Debug\Underground_Dungeon.DeadMenu.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.9\obj\Debug\Underground_Dungeon.GameExit.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.9\obj\Debug\Underground_Dungeon.GameSetting.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.9\obj\Debug\Underground_Dungeon.Level2.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.9\obj\Debug\Underground_Dungeon.Level1.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.9\obj\Debug\Underground_Dungeon.LevelMenu.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.9\obj\Debug\Underground_Dungeon.Properties.Resources.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.9\obj\Debug\Underground_Dungeon.StartMenu.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.9\obj\Debug\Underground_Dungeon.StopMenu.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.9\obj\Debug\Underground_Dungeon.Trade.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.9\obj\Debug\Underground Dungeon.csproj.GenerateResource.cache
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.9\obj\Debug\Underground Dungeon.csproj.CoreCompileInputs.cache
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.9\obj\Debug\Underground Dungeon.exe
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.9\obj\Debug\Underground Dungeon.pdb
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.9\bin\Debug\Interop.WMPLib.dll
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.9\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.9\obj\Debug\Interop.WMPLib.dll
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.9\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\redca\source\repos\Underground Dungeon-v1.4.9\obj\Debug\Underground Dungeon.csproj.ResolveComReference.cache
+C:\Users\redca\source\repos\Underground Dungeon-v15.0\obj\Debug\Underground Dungeon.csproj.AssemblyReference.cache
+C:\Users\redca\source\repos\Underground Dungeon-v15.0\obj\Debug\Interop.WMPLib.dll
+C:\Users\redca\source\repos\Underground Dungeon-v15.0\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\redca\source\repos\Underground Dungeon-v15.0\obj\Debug\Underground Dungeon.csproj.ResolveComReference.cache
+C:\Users\redca\source\repos\Underground Dungeon-v15.0\obj\Debug\Underground_Dungeon.CodeLine.resources
+C:\Users\redca\source\repos\Underground Dungeon-v15.0\obj\Debug\Underground_Dungeon.Controls.resources
+C:\Users\redca\source\repos\Underground Dungeon-v15.0\obj\Debug\Underground_Dungeon.Credits.resources
+C:\Users\redca\source\repos\Underground Dungeon-v15.0\obj\Debug\Underground_Dungeon.DeadMenu.resources
+C:\Users\redca\source\repos\Underground Dungeon-v15.0\obj\Debug\Underground_Dungeon.GameExit.resources
+C:\Users\redca\source\repos\Underground Dungeon-v15.0\obj\Debug\Underground_Dungeon.GameSetting.resources
+C:\Users\redca\source\repos\Underground Dungeon-v15.0\obj\Debug\Underground_Dungeon.Level0.resources
+C:\Users\redca\source\repos\Underground Dungeon-v15.0\obj\Debug\Underground_Dungeon.Level2.resources
+C:\Users\redca\source\repos\Underground Dungeon-v15.0\obj\Debug\Underground_Dungeon.Level1.resources
+C:\Users\redca\source\repos\Underground Dungeon-v15.0\obj\Debug\Underground_Dungeon.LevelMenu.resources
+C:\Users\redca\source\repos\Underground Dungeon-v15.0\obj\Debug\Underground_Dungeon.Properties.Resources.resources
+C:\Users\redca\source\repos\Underground Dungeon-v15.0\obj\Debug\Underground_Dungeon.StartMenu.resources
+C:\Users\redca\source\repos\Underground Dungeon-v15.0\obj\Debug\Underground_Dungeon.StopMenu.resources
+C:\Users\redca\source\repos\Underground Dungeon-v15.0\obj\Debug\Underground_Dungeon.Trade.resources
+C:\Users\redca\source\repos\Underground Dungeon-v15.0\obj\Debug\Underground Dungeon.csproj.GenerateResource.cache
+C:\Users\redca\source\repos\Underground Dungeon-v15.0\obj\Debug\Underground Dungeon.csproj.CoreCompileInputs.cache
+C:\Users\redca\source\repos\Underground Dungeon-v15.0\obj\Debug\Underground Dungeon.exe
+C:\Users\redca\source\repos\Underground Dungeon-v15.0\obj\Debug\Underground Dungeon.pdb
+C:\Users\redca\source\repos\Underground Dungeon-v15.0\bin\Debug\Underground Dungeon.exe.config
+C:\Users\redca\source\repos\Underground Dungeon-v15.0\bin\Debug\Underground Dungeon.exe
+C:\Users\redca\source\repos\Underground Dungeon-v15.0\bin\Debug\Underground Dungeon.pdb
+C:\Users\redca\source\repos\Underground Dungeon-v15.0\bin\Debug\Interop.WMPLib.dll
+C:\Users\redca\source\repos\Underground Dungeon-v15.0\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\redca\source\repos\Underground Dungeon-v15.0\obj\Debug\Underground_Dungeon.Level3.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.5.0\bin\Debug\Underground Dungeon.exe.config
+C:\Users\redca\source\repos\Underground Dungeon-v1.5.0\bin\Debug\Underground Dungeon.exe
+C:\Users\redca\source\repos\Underground Dungeon-v1.5.0\bin\Debug\Underground Dungeon.pdb
+C:\Users\redca\source\repos\Underground Dungeon-v1.5.0\bin\Debug\Interop.WMPLib.dll
+C:\Users\redca\source\repos\Underground Dungeon-v1.5.0\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\redca\source\repos\Underground Dungeon-v1.5.0\obj\Debug\Underground Dungeon.csproj.AssemblyReference.cache
+C:\Users\redca\source\repos\Underground Dungeon-v1.5.0\obj\Debug\Interop.WMPLib.dll
+C:\Users\redca\source\repos\Underground Dungeon-v1.5.0\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\redca\source\repos\Underground Dungeon-v1.5.0\obj\Debug\Underground Dungeon.csproj.ResolveComReference.cache
+C:\Users\redca\source\repos\Underground Dungeon-v1.5.0\obj\Debug\Underground_Dungeon.CodeLine.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.5.0\obj\Debug\Underground_Dungeon.Controls.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.5.0\obj\Debug\Underground_Dungeon.Credits.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.5.0\obj\Debug\Underground_Dungeon.DeadMenu.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.5.0\obj\Debug\Underground_Dungeon.GameExit.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.5.0\obj\Debug\Underground_Dungeon.GameSetting.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.5.0\obj\Debug\Underground_Dungeon.Level0.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.5.0\obj\Debug\Underground_Dungeon.Level3.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.5.0\obj\Debug\Underground_Dungeon.Level2.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.5.0\obj\Debug\Underground_Dungeon.Level1.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.5.0\obj\Debug\Underground_Dungeon.LevelMenu.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.5.0\obj\Debug\Underground_Dungeon.Properties.Resources.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.5.0\obj\Debug\Underground_Dungeon.StartMenu.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.5.0\obj\Debug\Underground_Dungeon.StopMenu.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.5.0\obj\Debug\Underground_Dungeon.Trade.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.5.0\obj\Debug\Underground Dungeon.csproj.GenerateResource.cache
+C:\Users\redca\source\repos\Underground Dungeon-v1.5.0\obj\Debug\Underground Dungeon.csproj.CoreCompileInputs.cache
+C:\Users\redca\source\repos\Underground Dungeon-v1.5.0\obj\Debug\Underground Dungeon.exe
+C:\Users\redca\source\repos\Underground Dungeon-v1.5.0\obj\Debug\Underground Dungeon.pdb
+C:\Users\redca\source\repos\Underground Dungeon-v1.5.0\obj\Debug\Underground_Dungeon.Level4.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.5.0\obj\Debug\Underground_Dungeon.Level5.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.5.0\obj\Debug\Underground_Dungeon.Level6.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.5.0\obj\Debug\Underground_Dungeon.Level7.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.5.0\obj\Debug\Underground_Dungeon.Level8.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.5.0\obj\Debug\Underground_Dungeon.Level9.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.5.0\obj\Debug\Underground_Dungeon.Level10.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.5.0\obj\Debug\Underground_Dungeon.Level11.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.5.0\obj\Debug\Underground_Dungeon.Level12.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.5.0\obj\Debug\Underground_Dungeon.Level13.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.5.0\obj\Debug\Underground_Dungeon.Level14.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.5.0\obj\Debug\Underground_Dungeon.Level15.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.5.0\obj\Debug\Underground_Dungeon.Level16.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.5.0\obj\Debug\Underground_Dungeon.Level17.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.5.0\obj\Debug\Underground_Dungeon.Level18.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.6.0\bin\Debug\Underground Dungeon.exe.config
+C:\Users\redca\source\repos\Underground Dungeon-v1.6.0\bin\Debug\Underground Dungeon.exe
+C:\Users\redca\source\repos\Underground Dungeon-v1.6.0\bin\Debug\Underground Dungeon.pdb
+C:\Users\redca\source\repos\Underground Dungeon-v1.6.0\bin\Debug\Interop.WMPLib.dll
+C:\Users\redca\source\repos\Underground Dungeon-v1.6.0\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\redca\source\repos\Underground Dungeon-v1.6.0\obj\Debug\Underground Dungeon.csproj.AssemblyReference.cache
+C:\Users\redca\source\repos\Underground Dungeon-v1.6.0\obj\Debug\Interop.WMPLib.dll
+C:\Users\redca\source\repos\Underground Dungeon-v1.6.0\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\redca\source\repos\Underground Dungeon-v1.6.0\obj\Debug\Underground Dungeon.csproj.ResolveComReference.cache
+C:\Users\redca\source\repos\Underground Dungeon-v1.6.0\obj\Debug\Underground_Dungeon.CodeLine.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.6.0\obj\Debug\Underground_Dungeon.Controls.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.6.0\obj\Debug\Underground_Dungeon.Credits.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.6.0\obj\Debug\Underground_Dungeon.DeadMenu.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.6.0\obj\Debug\Underground_Dungeon.GameExit.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.6.0\obj\Debug\Underground_Dungeon.GameSetting.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.6.0\obj\Debug\Underground_Dungeon.Level0.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.6.0\obj\Debug\Underground_Dungeon.Level12.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.6.0\obj\Debug\Underground_Dungeon.Level11.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.6.0\obj\Debug\Underground_Dungeon.Level10.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.6.0\obj\Debug\Underground_Dungeon.Level13.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.6.0\obj\Debug\Underground_Dungeon.Level14.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.6.0\obj\Debug\Underground_Dungeon.Level17.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.6.0\obj\Debug\Underground_Dungeon.Level15.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.6.0\obj\Debug\Underground_Dungeon.Level4.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.6.0\obj\Debug\Underground_Dungeon.Level16.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.6.0\obj\Debug\Underground_Dungeon.Level18.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.6.0\obj\Debug\Underground_Dungeon.Level9.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.6.0\obj\Debug\Underground_Dungeon.Level8.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.6.0\obj\Debug\Underground_Dungeon.Level7.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.6.0\obj\Debug\Underground_Dungeon.Level6.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.6.0\obj\Debug\Underground_Dungeon.Level5.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.6.0\obj\Debug\Underground_Dungeon.Level3.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.6.0\obj\Debug\Underground_Dungeon.Level2.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.6.0\obj\Debug\Underground_Dungeon.Level1.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.6.0\obj\Debug\Underground_Dungeon.LevelMenu.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.6.0\obj\Debug\Underground_Dungeon.Properties.Resources.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.6.0\obj\Debug\Underground_Dungeon.StartMenu.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.6.0\obj\Debug\Underground_Dungeon.StopMenu.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.6.0\obj\Debug\Underground_Dungeon.Trade.resources
+C:\Users\redca\source\repos\Underground Dungeon-v1.6.0\obj\Debug\Underground Dungeon.csproj.GenerateResource.cache
+C:\Users\redca\source\repos\Underground Dungeon-v1.6.0\obj\Debug\Underground Dungeon.csproj.CoreCompileInputs.cache
+C:\Users\redca\source\repos\Underground Dungeon-v1.6.0\obj\Debug\Underground Dungeon.exe
+C:\Users\redca\source\repos\Underground Dungeon-v1.6.0\obj\Debug\Underground Dungeon.pdb
